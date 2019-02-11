@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TPDM_U1_Practica1_Alesi</string>
+    <string-array name="sangre">
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+</resources>
